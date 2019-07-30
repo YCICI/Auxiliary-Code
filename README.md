@@ -6,3 +6,4 @@
 ## 目录
 * [数据重命名并排序](https://github.com/YCICI/Auxiliary-Code/tree/master/files_rename)
 * [CVPR论文检索](https://github.com/YCICI/Auxiliary-Code/tree/master/Paper%20Retrieval(%E8%AE%BA%E6%96%87%E6%A3%80%E7%B4%A2))
+* [图片尺寸缩放](https://github.com/YCICI/Auxiliary-Code/tree/master/resizeddatase)
