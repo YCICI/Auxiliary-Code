@@ -8,5 +8,5 @@ def convertjpg(jpgfile,outdir,width=512,height=512):
         new_img.save(os.path.join(outdir,os.path.basename(jpgfile)))
     except Exception as e:
         print(e)
-for jpgfile in glob.glob("D:/z_personal_file/com/datase/train_05/*.jpg"):
-    convertjpg(jpgfile,"D:/z_personal_file/com/datase/train_resized/")
+for jpgfile in glob.glob("/*.jpg"):#图片获取路径
+    convertjpg(jpgfile,"/datase/train_resized/")#resize后图片保存路径
