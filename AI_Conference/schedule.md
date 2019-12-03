@@ -330,7 +330,7 @@ Congress on Computational Intelligence).
 
 **全名：** European Conference on Machine learning and knowledge discovery in databases
 
-**官网：** [https://www.icpr2020.it](https://www.icpr2020.it)
+**官网：** [https://ecmlpkdd2020.net/](https://ecmlpkdd2020.net/)
 
 **截稿时间：** 2020.03.19
 
