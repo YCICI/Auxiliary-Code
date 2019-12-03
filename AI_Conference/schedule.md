@@ -212,21 +212,6 @@ Congress on Computational Intelligence).
 
 **H排名：** 26
 
-*********************************
-
-#### 12、 PRICAI 2020
-
-**全名：** Pacific Rim International Conference on Artificial Intelligence
-
-**官网：** [http://www.ijcai20.org/](http://www.ijcai20.org/)
-
-**截稿时间：** 2019.02.28
-
-**举办时间：** 2020.07.11~2020.07.17
-
-**会议介绍：** B类，亚太综合型人工智能会议, 虽然历史不算短了, 但因为比它好或者相当的综
-合型会议太多, 所以很难上升.
-
 
 *********************************
 
