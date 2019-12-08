@@ -8,5 +8,6 @@
 * [CVPR论文检索](https://github.com/YCICI/Auxiliary-Code/tree/master/Paper%20Retrieval(%E8%AE%BA%E6%96%87%E6%A3%80%E7%B4%A2))
 * [图片尺寸缩放](https://github.com/YCICI/Auxiliary-Code/tree/master/resizeddatase)
 
-*[自己整理的猫咪数据集](https://github.com/YCICI/Auxiliary-Code/tree/master/catsdata)
-*[2010下半年会议时间整理](https://github.com/YCICI/Auxiliary-Code/blob/master/AI_Conference/schedule.md)
+* [自己整理的猫咪数据集](https://github.com/YCICI/Auxiliary-Code/tree/master/catsdata)
+
+* [2010下半年会议时间整理](https://github.com/YCICI/Auxiliary-Code/blob/master/AI_Conference/schedule.md)
